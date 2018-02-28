@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.0.3, 2018-02-27T18:32:39. -->
+<!-- Written by QtCreator 4.0.3, 2018-02-28T16:35:59. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -288,7 +288,7 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/Qt/Qt5.6.2_x86/project/CanonGrab_x86/CanonGrab_x86.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments">1.jpg 2.jpg 3.jpg 4.jpg 5.jpg 6.jpg 7.jpg</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">CanonGrab_x86.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
